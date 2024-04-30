@@ -1,8 +1,8 @@
 # Coffee Machine Program using Python
 
-Coffee Machine Program Requirements
- 
- 
+![Machine](https://github.com/adityas1335/Coffee_Machine_Program_using_Python/assets/108605877/263e8c05-d4e6-4f98-a47f-f283f26416fd)
+
+ Coffee Machine Program Requirements 
  
 1.	Prompt user by asking “What would you like? (espresso / latte / cappuccino)” 
  	Check the user’s input to decide what to do next.  
